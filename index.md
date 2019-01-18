@@ -3,8 +3,6 @@ title: Why Blog
 layout: post
 ---
 
-## Why Blog
-
 Github如日中天，且现在支持私有仓库，考虑用github做个博客分享下技术心得体会。
 
 ## 关于Andy.cai
